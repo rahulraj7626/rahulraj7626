@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">Flutter developer | Freelancer | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulraj7626&label=Profile%20views&color=0e75b6&style=flat" alt="rahulraj7626" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulraj7626" alt="rahulraj7626" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🔭 I’m currently working on [Edu-tech App](https://teaminterval.in/)
+
+- 🌱 I’m currently learning **Flutter , Nodejs, Firebase ,Reactjs**
+
+- 🤝 I’m looking for help with [Que management app](https://queein.com/)
 
 - 📝 I regularly write articles on [https://stackoverflow.com/users/15011702/rahul-raj](https://stackoverflow.com/users/15011702/rahul-raj)
 
@@ -15,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rahulraj7626](https://www.linkedin.com/in/rahulraj7626)
 
-- ⚡ Fun fact **Photography Traveler Grease monkey,**
+- ⚡ Fun fact **Photography | Traveler | Grease monkey**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
