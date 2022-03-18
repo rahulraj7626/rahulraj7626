@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
-<h3 align="center">Flutter developer | Freelancer | India</h3>
+<h3 align="center">Flutter developer | Freelancer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulraj7626&label=Profile%20views&color=0e75b6&style=flat" alt="rahulraj7626" /> </p>
 
