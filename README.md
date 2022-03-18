@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulraj7626" alt="rahulraj7626" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , Nodejs, Firebase ,Reactjs**
+- 🌱 I’m currently learning **Flutter, Firebase**
 
 - 📝 I regularly write articles on [https://stackoverflow.com/users/15011702/rahul-raj](https://stackoverflow.com/users/15011702/rahul-raj)
 
