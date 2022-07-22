@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [Team interval Educational App](https://teaminterval.in/)
 
-- 🤝 I’m looking for help with [Que management app](https://queein.com/)
-
-- 📝 I regularly write articles on [https://stackoverflow.com/users/15011702/rahul-raj](https://stackoverflow.com/users/15011702/rahul-raj)
+- 📝 I regularly contribute on [https://stackoverflow.com/users/15011702/rahul-raj](https://stackoverflow.com/users/15011702/rahul-raj)
 
 - 💬 Ask me about **Flutter , dart**
 
