@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulraj7626" alt="rahulraj7626" /></a> </p>
 
-- 🔭 I’m currently working on [Team interval Educational App](https://teaminterval.in/)
+- 🔭 I’m currently working on [Three stops private limited](https://teaminterval.in/](https://3stops.app/)
 
 - 📝 I regularly contribute on [https://stackoverflow.com/users/15011702/rahul-raj](https://stackoverflow.com/users/15011702/rahul-raj)
 
