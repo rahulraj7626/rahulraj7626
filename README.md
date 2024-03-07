@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulraj7626" alt="rahulraj7626" /></a> </p>
 
-- 🔭 I’m currently working on Beinex private limited (https://beinex.com/)
+- 🔭 I’m currently working on Beinex (https://beinex.com/)
 
 - 📝 I regularly contribute on [https://stackoverflow.com/users/15011702/rahul-raj](https://stackoverflow.com/users/15011702/rahul-raj)
 
